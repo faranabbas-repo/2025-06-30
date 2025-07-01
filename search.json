@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "US Census Data",
+    "section": "",
+    "text": "# A tibble: 6 × 5\n  GEOID NAME       variable   estimate   moe\n  &lt;chr&gt; &lt;chr&gt;      &lt;chr&gt;         &lt;dbl&gt; &lt;dbl&gt;\n1 01    Alabama    B19013_001    59609   377\n2 02    Alaska     B19013_001    86370  1083\n3 04    Arizona    B19013_001    72581   450\n4 05    Arkansas   B19013_001    56335   422\n5 06    California B19013_001    91905   277\n6 08    Colorado   B19013_001    87598   508\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLinking to GEOS 3.13.1, GDAL 3.11.0, PROJ 9.6.0; sf_use_s2() is TRUE\n\n\nTo enable caching of data, set `options(tigris_use_cache = TRUE)`\nin your R script or .Rprofile.\n\n\nRetrieving data for the year 2024"
+  }
+]
